@@ -1,0 +1,11 @@
+{
+    "domain": "salus_it500",
+    "name": "Salus it500",
+    "version": "1.0.0",
+    "documentation": "https://github.com/MartinKurka/salus_it500",
+    "issue_tracker": "https://github.com/MartinKurka/salus_it500/issues",
+    "requirements": ["requests>=2.31.0"],
+    "dependencies": [],
+    "codeowners": ["@MartinKurka"],
+    "iot_class": "cloud_polling"
+}  
