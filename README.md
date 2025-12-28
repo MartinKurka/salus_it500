@@ -1,4 +1,4 @@
-# salus_it500
+# Salus IT500 thermostat controller
 Home assistant custom integration for thermostat Salus IT500
 
 Manufacturer: https://saluscontrols.com/gb/product/it500bm-wireless-internet-controlled-thermostat/
@@ -23,4 +23,4 @@ salus_it500:
 ```
 
 ### Usage
-![Example in Home assistant](images/9pvgmFYRHT.png)
+![Example in Home assistant](images/chrome_7KNeBMq2MN.png)
